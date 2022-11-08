@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **barbaros1675@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
