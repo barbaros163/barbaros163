@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/barbaros163?tab=repositories](https://github.com/barbaros163?tab=repositories)
+- 👨‍💻 All of my projects are available at https://published-projects.netlify.app/
 
 - 💬 Ask me about **Html, Css, Javascript**
 
